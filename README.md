@@ -29,5 +29,5 @@ The system utilizes computer vision techniques to detect and track hand gestures
 
 Once a gesture is recognized, the system maps the gesture length to the volume range and adjusts the system's audio volume accordingly using the pycaw library.
 
-## Acknowledment
+## Acknowledgement
 Project under Coincent program of _Data Science with Python_.
